@@ -22,7 +22,7 @@ This will launch the app and display a window where you can enter the name of th
 
 **Diagram**
 
-![Screenshot of Weather App](https://chat.openai.com/c/screenshot.png)![](Aspose.Words.175e67da-791c-455e-b25d-5648a87e904f.002.png)
+![](Aspose.Words.175e67da-791c-455e-b25d-5648a87e904f.002.png)
 
 **Contributing**
 
