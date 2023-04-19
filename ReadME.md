@@ -18,11 +18,13 @@ This will launch the app and display a window where you can enter the name of th
 
 **Screenshot**
 
-![](Aspose.Words.175e67da-791c-455e-b25d-5648a87e904f.001.png)
+![Aspose Words 175e67da-791c-455e-b25d-5648a87e904f 001](https://user-images.githubusercontent.com/37781149/233144505-36ba0dfc-1f2b-4c05-b983-8cca10e6549c.png)
+
 
 **Diagram**
 
-![](Aspose.Words.175e67da-791c-455e-b25d-5648a87e904f.002.png)
+![Aspose Words 175e67da-791c-455e-b25d-5648a87e904f 002](https://user-images.githubusercontent.com/37781149/233144546-4d61cabd-ae50-4c51-811b-a409ae8f2eb0.png)
+
 
 **Contributing**
 
