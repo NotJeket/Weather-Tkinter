@@ -23,7 +23,8 @@ This will launch the app and display a window where you can enter the name of th
 
 **Diagram**
 
-![Aspose Words 175e67da-791c-455e-b25d-5648a87e904f 002](https://user-images.githubusercontent.com/37781149/233144546-4d61cabd-ae50-4c51-811b-a409ae8f2eb0.png)
+![code2flow_EhzFPl](https://github.com/NotJeket/Weather-Tkinter/assets/37781149/664cba4f-13a1-4198-a04e-c6c6d44424fd)
+
 
 
 **Contributing**
